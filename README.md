@@ -9,7 +9,7 @@
 <br><a href = "https://github.com/Haruto0316/hibi-tasks">タスク管理アプリ</a>→管理したいタスクをスマートフォンのアプリに登録、自分で設定したリマインド通知時間・間隔にスマートフォンにバナー通知が来る
 <br><a href = "https://github.com/Haruto0316/astral-sigil">カードゲーム</a>→だれかすきま時間に遊びたい時などに気軽に対戦ができるカードゲーム
 <br>現在開発しているゲームは
-<br><a href = "<a href = "https://github.com/Haruto0316/astral-sigil">">AIM練習アプリ</a>→自分がプレイしているFPSゲームに合わせて、よりそのFPSゲームに近いAIM練習ができるアプリを作成中です。
+<br><a href = "https://github.com/Haruto0316/astral-sigil">">AIM練習アプリ</a>→自分がプレイしているFPSゲームに合わせて、よりそのFPSゲームに近いAIM練習ができるアプリを作成中です。
 <!--
 **Haruto0316/haruto0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
