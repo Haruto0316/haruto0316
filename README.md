@@ -1,0 +1,26 @@
+## 自己紹介！！
+千葉工業大学 情報変革科学部 認知情報科学 松波温都(まつなみはると)です。
+学校では主に人間が情報を処理する仕組みについて考える認知科学と、コンピュータが情報を処理する仕組みについて考える情報科学を学んでいます。
+## 興味を持っていること
+私は今自分や周りのひとが持っている課題や悩みをシステムを使い、解決することに興味を持っています。そのため現在、自分が持っている課題などを考えて、それをAI(ChatGPT)を使い、実際に作ってみています。
+またシステム開発の上流、下流工程について両方に興味を持っていて(特に上流)SIerになりたいと考えています。
+## 制作物について
+今までに作った制作物は
+<br>タスク管理アプリ→管理したいタスクをスマートフォンのアプリに登録、自分で設定したリマインド通知時間・間隔にスマートフォンにバナー通知が来る
+<br>カードゲーム→だれかすきま時間に遊びたい時などに気軽に対戦ができるカードゲーム
+<br>現在開発しているゲームは
+<br>AIM練習アプリ→自分がプレイしているFPSゲームに合わせて、よりそのFPSゲームに近いAIM練習ができるアプリを作成中です。
+<!--
+**Haruto0316/haruto0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
